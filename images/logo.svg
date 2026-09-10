@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+
+<circle cx="120" cy="120" r="108" fill="#0d141b" stroke="#d8b25d" stroke-width="6"></circle>
+
+<circle cx="120" cy="120" r="82" fill="none" stroke="#d8b25d" stroke-width="2"></circle>
+
+<path d="M120 55
+
+L150 120
+
+L120 185
+
+L90 120
+
+Z" fill="#d8b25d"></path>
+
+<circle cx="120" cy="120" r="18" fill="#0d141b" stroke="#d8b25d" stroke-width="3"></circle>
+
+</svg>
