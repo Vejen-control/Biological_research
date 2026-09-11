@@ -21,7 +21,7 @@ const formData = {
 };
 
 const response = await fetch(
-    "https://script.google.com/macros/s/AKfycby6qi0zfvIYA1zvXZLGIch6v3-Dkxcuxar7WbTlBhrMqkVYT5afdg7HmKdQXHexRyaOab/exec",
+    "https://script.google.com/macros/s/AKfycby6qi0zfvIYA1zvXZLGIch6v3-Dkxcuxar7WbTlBhrMqkVYT5afdg7HmKdQXHexRyaO/exec",
     {
         method: "POST",
         headers: {
